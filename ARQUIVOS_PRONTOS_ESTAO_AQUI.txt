@@ -1,0 +1,9 @@
+Os arquivos prontos para o seu site estão na pasta DOWNLOAD_AQUI.
+Dentro dela você encontrará:
+- index.html
+- assets/ (pasta com JS e CSS)
+- config.json
+- produtos.json
+- pedidos.json
+
+Para baixar, use a opção 'Export to ZIP' no menu de configurações.
